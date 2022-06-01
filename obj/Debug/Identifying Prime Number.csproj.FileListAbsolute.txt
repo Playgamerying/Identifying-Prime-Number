@@ -1,0 +1,14 @@
+F:\Learning\C#\Example programs\Identifying Prime Number\bin\Debug\Identifying Prime Number.exe.config
+F:\Learning\C#\Example programs\Identifying Prime Number\bin\Debug\Identifying Prime Number.exe
+F:\Learning\C#\Example programs\Identifying Prime Number\bin\Debug\Identifying Prime Number.pdb
+F:\Learning\C#\Example programs\Identifying Prime Number\obj\Debug\Identifying Prime Number.csproj.AssemblyReference.cache
+F:\Learning\C#\Example programs\Identifying Prime Number\obj\Debug\Identifying Prime Number.csproj.CoreCompileInputs.cache
+F:\Learning\C#\Example programs\Identifying Prime Number\obj\Debug\Identifying Prime Number.exe
+F:\Learning\C#\Example programs\Identifying Prime Number\obj\Debug\Identifying Prime Number.pdb
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Identifying Prime Number\bin\Debug\Identifying Prime Number.exe.config
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Identifying Prime Number\bin\Debug\Identifying Prime Number.exe
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Identifying Prime Number\bin\Debug\Identifying Prime Number.pdb
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Identifying Prime Number\obj\Debug\Identifying Prime Number.csproj.AssemblyReference.cache
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Identifying Prime Number\obj\Debug\Identifying Prime Number.csproj.CoreCompileInputs.cache
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Identifying Prime Number\obj\Debug\Identifying Prime Number.exe
+F:\Learning\C#\Example programs\Finding specific type of numbers - programs\Identifying Prime Number\obj\Debug\Identifying Prime Number.pdb
